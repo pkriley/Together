@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "together",
+    "slug": "together",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "together"
+}
